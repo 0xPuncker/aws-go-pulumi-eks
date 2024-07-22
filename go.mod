@@ -3,7 +3,7 @@ module github.com/rneiva/aws-go-pulumi-eks
 go 1.22.2
 
 require (
-	github.com/pulumi/pulumi-aws/sdk/v6 v6.44.0
+	github.com/pulumi/pulumi-aws/sdk/v6 v6.45.0
 	github.com/pulumi/pulumi-eks/sdk v1.0.4
 	github.com/pulumi/pulumi/sdk/v3 v3.121.0
 )
