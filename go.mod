@@ -5,7 +5,7 @@ go 1.22.2
 require (
 	github.com/pulumi/pulumi-aws/sdk/v6 v6.49.1
 	github.com/pulumi/pulumi-eks/sdk v1.0.4
-	github.com/pulumi/pulumi/sdk/v3 v3.129.0
+	github.com/pulumi/pulumi/sdk/v3 v3.130.0
 )
 
 require (
