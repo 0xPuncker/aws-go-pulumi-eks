@@ -3,11 +3,10 @@ module github.com/rneiva/aws-go-pulumi-eks
 go 1.22.2
 
 require (
-	github.com/pulumi/pulumi-aws/sdk/v6 v6.71.0
+	github.com/pulumi/pulumi-aws/sdk/v6 v6.73.0
 	github.com/pulumi/pulumi-eks/sdk v1.0.4
 	github.com/pulumi/pulumi/sdk/v3 v3.157.0
-)
-
+  
 require (
 	dario.cat/mergo v1.0.0 // indirect
 	github.com/BurntSushi/toml v1.2.1 // indirect
